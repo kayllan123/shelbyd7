@@ -1,0 +1,81 @@
+body{
+background-image: url(letras.gif.gif);
+
+}
+h1{
+    text-align: center;
+    color:white
+    
+}
+h2{
+    text-align: center;
+    color: white
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    color: white
+}
+img{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul{
+    text-align: center;
+  
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color:red
+  }
+  
+  header {
+    background-color: darkred;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  
+  }
+  
+  nav ul {
+    list-style: none;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  main {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
